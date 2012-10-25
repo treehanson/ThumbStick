@@ -1,0 +1,14 @@
+<div class="pricing_div">
+    <h4 class="pricing_h4">TICKET PRICES</h4>
+    <p class="pricing_heading"><b>MATINEE </b><span class="pricing_small">(SHOWS STARTING BEFORE 5PM)</span> </p>
+    <p class="pricing_list">ALL SEATS $7.00</p>
+    <p class="pricing_heading"><b>EVENING</b><span class="pricing_small">(SHOWS STARTING 5PM OR LATER)</span></p>
+    <p class="pricing_list">ADULTS $9.50</p>
+    <p class="pricing_list">SENIORS $7.00</p>
+    <p class="pricing_list">MILITARY (WITH VALID ID) $7.00</p>
+</div>
+<div class="pricing_div">
+    <h4 class="pricing_h4">AGE RESTRICTION POLICY</h4>
+    <p class="pricing_list">CHILDREN (AGES 1-12 ARE NOT PERMITTED)</p>
+    <p class="pricing_list">GUESTS AGES 12-17 (MUST BE ACCOMPANIED BY A PARENT OR LEGAL GUARDIAN)</p>
+</div>

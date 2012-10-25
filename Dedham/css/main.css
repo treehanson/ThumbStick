@@ -1,0 +1,138 @@
+﻿body 
+{
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    text-align:center;
+    margin:0px 0px 0px 0px;
+    border:0px;
+}
+.change_week
+{
+    position:relative;
+    float:left;
+    border:1px solid #660000;
+    width:87px;
+    height:30px;
+}
+.default_body
+{
+    background-image:url(../images/bgtile.gif);
+    background-repeat:repeat;
+}
+img
+{
+    text-decoration:none; 
+    border:0px;   
+}
+.playlarge
+{
+    position:relative;
+    float:left;
+	height:200px;
+    width:300px;	
+    left: 0;
+    top: 0;
+    z-index: 100;
+}
+.showtimes
+{
+    width:770px; 
+    background-color:#000000;
+    padding:10px 10px 10px 10px;
+    margin:10px auto;
+    text-align:left;
+}
+.showtimes_bottom
+{
+    position:relative;
+    float:left;
+    width:800px;
+    height:27px;
+    background-image:url('../images/bottombar.gif');
+}
+.showtimes_comingsoon
+{
+    position:relative;
+    float:left;
+    width:139px;
+}
+.showtimes_comingsoon_block
+{
+    position:relative;
+    float:left;
+    border:3px solid #000;
+}
+.showtimes_comingsoon_image
+{
+    border:1px solid #660000;
+}
+.showtimes_left
+{
+    position:relative;
+    float:left;
+    width:620px;  
+    border-right:5px solid #000;
+}
+.showtimes_nowplaying
+{
+    position:relative;
+    float:left;
+    background-color:#660000;
+    text-align:left;
+    font-size:10pt;
+    width:610px;
+    border:3px solid #000000;
+}
+.showtimes_nowplaying_image
+{
+    position:relative;
+    float:left;
+    width:304px;
+}
+.showtimes_nowplaying_text
+{
+    position:relative;
+    float:left;
+    background-color:#f2e6e6; 
+    width:286px; 
+    font-size:10pt;
+    text-align:left;    
+    padding:10px 10px 10px 10px;    
+    color:#660000; 
+}
+}
+.showtimes_nowplaying_text_bold
+{
+   position:relative;
+   float:left;
+   text-align:left;    
+   font-weight:bold;
+}
+.showtimes_nowplaying_text_NOTbold
+{
+   position:relative;
+   float:left;
+   text-align:left; 
+}
+.showtimes_nowplaying_title
+{
+    color:White;
+    font-size:1.1em;
+    font-weight:bold;     
+    padding:3px;   
+    text-align:left;      
+}
+.showtimes_week
+{
+    position:relative;
+    float:left;
+    font-size:1.2em;
+    color:White;
+    font-weight:bold;
+    font-style:italic; 
+    padding:5px 5px 5px 5px;       
+}
+.stilllarge 
+{
+    position:absolute;
+    left:0px;
+}
